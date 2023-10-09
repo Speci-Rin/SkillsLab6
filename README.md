@@ -15,3 +15,9 @@ You can create any changes that will benefit the goal of the project, and once y
 Return to github and select the "pull request" tab in the upper left corner and make a request for us to review your changes. 
 Thank you for all your help!
 ![thankYou](https://media.giphy.com/media/3oEdva9BUHPIs2SkGk/giphy.gif)
+
+# Why we chose the Lisense
+We chose this lisense because we want this code to be more acedemic than a service. We thought the code would benefit from people being able to make the changes they need to in order to better suit their specific needs. 
+
+# Why we chose the Code of Conduct
+We chose this specific Code of Conduct because it states how each contributer must show respect to everyone else no matter the circumstance. It also allows for the leaders to deal with the violaters of the code as they see fit depending on how bad their violations are. 
